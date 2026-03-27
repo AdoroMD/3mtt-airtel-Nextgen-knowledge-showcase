@@ -20,4 +20,13 @@ It is useful for disease surveillance,  it empowers community health workers to 
 
 ###For Sentinel project app Click(here[https://village-watch-health.lovable.app/])
 
+### For demo video click here(https://drive.google.com/file/d/1ShILX_hB14rI9GaE-lnJ1BtG4JicVAY9/view?usp=drivesdk)
+
+
+## I will like to say a big thank you to the 3mtt for giving me the opportunity to learn this skill. 
+##And to my amazing ALC: Black Innovation African (BIA), you are the best learning center.
+
+##To my hmmm!!! lovely mentors, work worked extra time,  late hour to provide all the neccessary support and guidance, needed to make this project a success (- Dr Doyin Aka Data analysis and Data Science,
+- Bar. Pius Aka software engineer and Miraculous Mr. Miracle). I deeply see and appreciate all the sacrifices. I love you all🥰🥰
+
 
