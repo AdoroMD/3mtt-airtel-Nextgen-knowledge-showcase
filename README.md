@@ -8,4 +8,16 @@ This is to demonstrate skills acquired so far
 #### Project Sentinel:
 This is a smart, offline-first mobile application and web-base dashboard for community health workers (e.g CHEWs) in Nigeria. It facilitates the real-time reporting and tracking of lassa fever, Covid-19, and Polio cases down to the community level, while providing health administrators with an intelligent, data driven overview for rapid response and epidemiological updates. 
 Sentinel provides the health workers with an e-form, for reporting these cases for each patient, documenting symptoms and providing health workers with guidelines which serves as a reminder for safety practices, thereby preventing the spread of such diseases even within the healthcare setting and the community at large. 
-The app
+
+The app is linked to a Dashboard that provides statistical breakdown of reported cases, and provides the health worker with the ability to view summary of reports at any given time. 
+
+The GPS is there for monitoring purpose, to ensure that the report is coming from the community and not fabricated elsewhere (Ensure data integrity)
+
+### Why Sentinel? one may ask
+In military terms, a Sentinel is a guard who stands watch, and in medicine, a Sentinel is a disease indicator that indicates the presence of a disease. Because an outbreak usually starts with a case, that is probably not reported and tackled on time, usually in the rural or neglected communities. project Sentinel is relevant in bridging this gap.
+
+It is useful for disease surveillance,  it empowers community health workers to be the "Sentinel " of Nigeria's public health,  standing firm and guarding our communities against possible outbreaks.  it also helps in tracking the presence of these diseases in our communities for rapid responses and providing epidemiological updates, useful in planning and execution of health interventions in affected communities,  safe guiding community health and preventing outbreaks, thereby saving lives. 
+
+###For Sentinel project app Click(here[https://village-watch-health.lovable.app/])
+
+
