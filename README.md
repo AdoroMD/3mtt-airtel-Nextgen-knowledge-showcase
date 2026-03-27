@@ -1,6 +1,6 @@
 # 3mtt-airtel-Nextgen-knowledge-showcase
 I am currently acquiring a skill in data science with the 3mtt airtel nextgen cohort. 
-and at week for, am faced with this great task: The knowledge showcase.
+and at week 4, i am faced with this great task: The knowledge showcase.
 This is to demonstrate skills acquired so far 
 ## I chose a project, I titled project Sentinel for my knowledge showcase case.
 
@@ -18,15 +18,18 @@ In military terms, a Sentinel is a guard who stands watch, and in medicine, a Se
 
 It is useful for disease surveillance,  it empowers community health workers to be the "Sentinel " of Nigeria's public health,  standing firm and guarding our communities against possible outbreaks.  it also helps in tracking the presence of these diseases in our communities for rapid responses and providing epidemiological updates, useful in planning and execution of health interventions in affected communities,  safe guiding community health and preventing outbreaks, thereby saving lives. 
 
-###For Sentinel project app Click(here[https://village-watch-health.lovable.app/])
+### For Sentinel project app Click(here[https://village-watch-health.lovable.app/])
 
 ### For demo video click here(https://drive.google.com/file/d/1ShILX_hB14rI9GaE-lnJ1BtG4JicVAY9/view?usp=drivesdk)
 
 
 ## I will like to say a big thank you to the 3mtt for giving me the opportunity to learn this skill. 
-##And to my amazing ALC: Black Innovation African (BIA), you are the best learning center.
+## And to my amazing ALC: Black Innovation African (BIA), you are the best learning center.
 
-##To my hmmm!!! lovely mentors, work worked extra time,  late hour to provide all the neccessary support and guidance, needed to make this project a success (- Dr Doyin Aka Data analysis and Data Science,
-- Bar. Pius Aka software engineer and Miraculous Mr. Miracle). I deeply see and appreciate all the sacrifices. I love you all🥰🥰
+## To my hmmm!!! lovely mentors, who worked extra time, and even late hours to provide all the neccessary support and guidance needed to make this project a success:
+- Dr Doyin Aka Data analysis and Data Science,
+- Bar. Pius Aka software engineer and
+- Miraculous Mr. Miracle.
+I see and deeply appreciate all the sacrifices. I love you all🥰🥰
 
 
