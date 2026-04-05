@@ -18,9 +18,9 @@ In military terms, a Sentinel is a guard who stands watch, and in medicine, a Se
 
 It is useful for disease surveillance,  it empowers community health workers to be the "Sentinel " of Nigeria's public health,  standing firm and guarding our communities against possible outbreaks.  it also helps in tracking the presence of these diseases in our communities for rapid responses and providing epidemiological updates, useful in planning and execution of health interventions in affected communities,  safe guiding community health and preventing outbreaks, thereby saving lives. 
 
-### For Sentinel project app Click(here[https://village-watch-health.lovable.app/])
+### For Sentinel project app [Click here](https://village-watch-health.lovable.app/)
 
-### For demo video click here(https://drive.google.com/file/d/1ShILX_hB14rI9GaE-lnJ1BtG4JicVAY9/view?usp=drivesdk)
+### For demo video [click here](https://drive.google.com/file/d/1ShILX_hB14rI9GaE-lnJ1BtG4JicVAY9/view?usp=drivesdk)
 
 
 ## I will like to say a big thank you to the 3mtt for giving me the opportunity to learn this skill. 
